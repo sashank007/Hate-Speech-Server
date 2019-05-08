@@ -1,0 +1,6 @@
+index,char_bigrams: a,char_bigrams: f,char_bigrams: g,char_bigrams: h,char_bigrams: i,char_bigrams: l,char_bigrams: m,char_bigrams: n,char_bigrams: r,char_bigrams:a ,char_bigrams:ac,char_bigrams:ar,char_bigrams:as,char_bigrams:ch,char_bigrams:ct,char_bigrams:d ,char_bigrams:de,char_bigrams:e ,char_bigrams:e?,char_bigrams:ea,char_bigrams:er,char_bigrams:fl,char_bigrams:fo,char_bigrams:ge,char_bigrams:gg,char_bigrams:go,char_bigrams:hi,char_bigrams:i ,char_bigrams:id,char_bigrams:ig,char_bigrams:in,char_bigrams:is,char_bigrams:k ,char_bigrams:la,char_bigrams:le,char_bigrams:ma,char_bigrams:ne,char_bigrams:ng,char_bigrams:ni,char_bigrams:od,char_bigrams:oo,char_bigrams:or,char_bigrams:r?,char_bigrams:re,char_bigrams:rn,char_bigrams:rs,char_bigrams:s ,char_bigrams:sk,char_bigrams:t ,char_bigrams:te,char_bigrams:wh
+0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1
+2,0,2,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,1
+3,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,2,0,1
+4,1,0,1,0,2,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1

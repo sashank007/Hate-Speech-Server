@@ -1,0 +1,6 @@
+index,word_bigrams:flask good,word_bigrams:good ide,word_bigrams:hate nigger,word_bigrams:machin learn,word_bigrams:react good
+0,0,0,1,0,0
+1,0,0,0,1,0
+2,1,0,0,0,0
+3,0,0,0,0,1
+4,0,1,0,0,0
