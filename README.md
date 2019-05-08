@@ -2,7 +2,7 @@
 
 Creating a hate speech server for a mobile platform. This utilizes twitter data to detect hate speech on a mobile coding forum. 
 
-Mobile application can be found at https://github.com/sashank007/Mobile-Hate-Speech-Detection-Forum .
+Mobile application can be found at https://github.com/sashank007/Mobile-Hate-Speech-Detection-Forum.
 
 # Instructions to Run
 
